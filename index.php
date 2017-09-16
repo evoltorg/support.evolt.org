@@ -40,12 +40,12 @@ include "assets/inc/20-message.inc";
 		</div>
 		<div class="p33">
 			<p class="center">
-			<img src="http://evolt.org/front/assets/img/donate/paypal.png" alt="" width="32" height="32" style="vertical-align: middle" />
-			<img src="http://evolt.org/front/assets/img/donate/visa.png" alt="" width="32" height="32" style="vertical-align: middle" />
-			<img src="http://evolt.org/front/assets/img/donate/mastercard.png" alt="" width="32" height="32" style="vertical-align: middle" />
-			<img src="http://evolt.org/front/assets/img/donate/maestro.png" alt="" width="32" height="32" style="vertical-align: middle" />
-			<img src="http://evolt.org/front/assets/img/donate/amex.png" alt="" width="32" height="32" style="vertical-align: middle" />
-			<img src="http://evolt.org/front/assets/img/donate/wallet.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/paypal.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/visa.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/mastercard.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/maestro.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/amex.png" alt="" width="32" height="32" style="vertical-align: middle" />
+			<img src="/assets/img/donate/wallet.png" alt="" width="32" height="32" style="vertical-align: middle" />
 			</p>
 		</div>
 		<div class="p33">
@@ -111,7 +111,7 @@ If you'd like to become an evolt.org affiliate, or have an affiliate suggestion,
 
 Google Ads in the Browser Archive
 
-We have begun running Google AdSense ads within the Browser Archive.  
+We have begun running Google AdSense ads within the Browser Archive.
 
 If you'd like, you can now advertise exclusively on evolt.org! You can use this link to sign up for a Google AdWords account and target ads to browsers.evolt.org.
 
