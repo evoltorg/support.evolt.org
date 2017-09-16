@@ -2,7 +2,7 @@
 // browserarchive.org aka browsers.evolt.org
 // Copyright (c) 1999-2013 Adrian Roselli, William Anderson
 ?>
-<!DOCTYPE html> 
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="utf-8" />
@@ -15,10 +15,10 @@
 	<meta name="keywords" content="web, internet, design, technology, interface, multimedia, script, commentary, hardware, software, articles, news, history, browsers, archive" />
 	<meta name="description" content="A world community for web developers, evolt.org promotes the mutual free exchange of ideas, skills and experiences." />
 	<link rel="shortcut icon" href="/favicon.ico" />
-	<link href="http://fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
-	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Bree+Serif" rel="stylesheet" type="text/css">
+	<link href="//fonts.googleapis.com/css?family=Open+Sans:400,300,700" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" href="/assets/css/magnificpopup.css" media="screen" />
-	<link rel="stylesheet" href="/assets/css/font-awesome.min.css" media="screen" />
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" media="screen" />
 	<link rel="stylesheet" href="/assets/css/style.css" media="screen" />
 	<link rel="stylesheet" href="/assets/css/scheme-seo.css" media="screen" />
 	<title><?php echo $html_title ?><?php if ( $html_title != $site_name ) { ?> | support.evolt.org<?php } ?></title>
@@ -60,14 +60,14 @@
 	</div>
 <?php
 	if ( $page_type == "splash" ) {
-		include "assets/inc/11-header-splash.inc"; 
+		include "assets/inc/11-header-splash.inc";
 ?>
 </header>
 <?php
-	} else { 
+	} else {
 ?>
 </header>
 <?php
 		include "assets/inc/12-header-page.inc";
-	} 
+	}
 ?>
